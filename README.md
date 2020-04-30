@@ -1,2 +1,3 @@
 # javaFelevesBeadando
-ME Java féléves beadando
+ME Java féléves beadandó
+Burka Erik (BFATS0)
